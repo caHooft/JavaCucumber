@@ -3,7 +3,7 @@ package stepDefinitions;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 
-public class hooks {
+public class hooksOld {
 
 	@Before("@NetBanking")
 	public void netBankingSetup()
