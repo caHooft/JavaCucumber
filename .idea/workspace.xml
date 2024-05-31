@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="14a900c7-7c38-49f8-a42e-c12fe16121f6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cucumberOptions/TestNGRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cucumberOptions/TestNGRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/features/firstProgram.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/firstProgram.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/MainSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/MainSteps.java" afterDir="false" />
     </list>
@@ -126,7 +127,7 @@
       <workItem from="1716980244079" duration="52000" />
       <workItem from="1717055855068" duration="4942000" />
       <workItem from="1717068618801" duration="7077000" />
-      <workItem from="1717141826574" duration="10924000" />
+      <workItem from="1717141826574" duration="13630000" />
     </task>
     <task id="LOCAL-00001" summary="30/05 tutorial section 3">
       <option name="closed" value="true" />
@@ -152,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717147009626</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Cucumber tutorial end section 4">
+      <option name="closed" value="true" />
+      <created>1717162839859</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717162839859</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +172,7 @@
     <MESSAGE value="30/05 tutorial section 3" />
     <MESSAGE value="30/05 tutorial second half section 3" />
     <MESSAGE value="Cucumber tutorial start section 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cucumber tutorial start section 4" />
+    <MESSAGE value="Cucumber tutorial end section 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cucumber tutorial end section 4" />
   </component>
 </project>

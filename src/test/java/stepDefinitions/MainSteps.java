@@ -27,6 +27,21 @@ public class MainSteps
         System.out.println("User login into application with details user: " + string + " and password: " + string2);
     }
 
+    @Given("User is on practice landing page")
+    public void user_is_on_practice_landing_page() {
+        // Write code here that turns the phrase above into concrete actions
+        System.out.println("User is on practice landing page");
+    }
+    @When("User signup for website")
+    public void user_signup_for_website(List<String> data)
+    {
+        System.out.println(data.get(0));
+        System.out.println(data.get(1));
+        System.out.println(data.get(2));
+        System.out.println(data.get(3));
+    }
+
+
     @Then("Home Page is displayed")
     public void home_page_is_displayed() {
         // Write code here that turns the phrase above into concrete actions

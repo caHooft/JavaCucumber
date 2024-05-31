@@ -1,6 +1,10 @@
   Feature: Application Login
     Multiple login automation tests
 
+    Background:
+    //put pre-requisite steps here
+
+    @RegressionTest
     Scenario: Admin Page default login
 
       Given User is on NetBanking landing page
@@ -8,6 +12,7 @@
       Then Home Page is displayed
       And Cards are displayed
 
+    @RegressionTest
     Scenario: User Page default login
 
       Given User is on NetBanking landing page
@@ -15,6 +20,7 @@
       Then Home Page is displayed
       And Cards are displayed
 
+  @SmokeTest @RegressionTest
     Scenario Outline: User Page default login
 
       Given User is on NetBanking landing page
@@ -27,6 +33,18 @@
         | credituser  | Hell321       |
         | lameuser    | Hell312       |
         | crackuser   | Hell213       |
+
+@SmokeTest @RegressionTest
+    Scenario: User Page default sign up
+
+      Given User is on practice landing page
+      When  User signup for website
+      | Henk  |
+      | Jan   |
+      | contact@email.com|
+      |54343646463       |
+      Then Home Page is displayed
+      And Cards are displayed
 
 
 
