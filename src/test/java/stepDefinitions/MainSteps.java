@@ -14,11 +14,19 @@ public class MainSteps
         // Write code here that turns the phrase above into concrete actions
         System.out.println("User is on NetBanking landing page");
     }
-    @When("User login into application with <string> and password <string>")
-    public void user_login_into_application_with_string_and_password_string() {
+    @When("User login into application with {string} and password {string}")
+    public void user_login_into_application_with_and_password(String user, String password)
+    {
         // Write code here that turns the phrase above into concrete actions
-        System.out.println("User login into application");
+        System.out.println("User login into application with details user: " + user + " and password: " + password);
     }
+
+    @When("User login into application with {string} and password {string} parameterized")
+    public void user_login_into_application_with_and_password_parameterized(String string, String string2) {
+        // Write code here that turns the phrase above into concrete actions
+        System.out.println("User login into application with details user: " + string + " and password: " + string2);
+    }
+
     @Then("Home Page is displayed")
     public void home_page_is_displayed() {
         // Write code here that turns the phrase above into concrete actions
