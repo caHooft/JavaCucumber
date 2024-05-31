@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14a900c7-7c38-49f8-a42e-c12fe16121f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/firstProgramOld.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/MainStepsOld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cucumberOptions/TestNGRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cucumberOptions/TestNGRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/firstProgram.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/firstProgram.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/secondProgram.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/secondProgramOld.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/firstProgramOld.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/secondProgramOld.feature" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/MainSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/MainSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/hooksOld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/MainStepsOld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/hooksOld.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +20,12 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Casper Hooft &lt;casper.hooft@ordina.nl&gt;" />
         <option value="Casper" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -73,6 +73,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cho32468\IdeaProjects\spring-6-di\SomethingMaven\SomethingMaven\src\test\java\Old" />
       <recent name="C:\Users\cho32468\IdeaProjects\spring-6-di\SomethingMaven\SomethingMaven\src\test\java\features" />
       <recent name="C:\Users\cho32468\IdeaProjects\spring-6-di\SomethingMaven\SomethingMaven\src\test\java" />
       <recent name="C:\Users\cho32468\IdeaProjects\spring-6-di\SomethingMaven\SomethingMaven\src\main" />
@@ -128,7 +129,7 @@
       <workItem from="1716980244079" duration="52000" />
       <workItem from="1717055855068" duration="4942000" />
       <workItem from="1717068618801" duration="7077000" />
-      <workItem from="1717141826574" duration="2198000" />
+      <workItem from="1717141826574" duration="4021000" />
     </task>
     <task id="LOCAL-00001" summary="30/05 tutorial section 3">
       <option name="closed" value="true" />
@@ -138,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717073001472</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="30/05 tutorial second half section 3">
+      <option name="closed" value="true" />
+      <created>1717144119844</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717144119844</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +156,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="30/05 tutorial section 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="30/05 tutorial section 3" />
+    <MESSAGE value="30/05 tutorial second half section 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="30/05 tutorial second half section 3" />
   </component>
 </project>
