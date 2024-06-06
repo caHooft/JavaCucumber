@@ -6,7 +6,6 @@
       When  Launch the browser from config variables
       And Hit the home page url of banking site
 
-
     @RegressionTest
     Scenario: Admin Page default login
 
@@ -48,6 +47,3 @@
       |54343646463       |
       Then Home Page is displayed
       And Cards are displayed
-
-
-

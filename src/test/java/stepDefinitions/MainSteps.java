@@ -58,7 +58,6 @@ public class MainSteps
         System.out.println(data.get(3));
     }
 
-
     @Then("Home Page is displayed")
     public void home_page_is_displayed() {
         // Write code here that turns the phrase above into concrete actions

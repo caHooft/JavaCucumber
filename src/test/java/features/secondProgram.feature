@@ -5,7 +5,6 @@
       When  Launch the browser from config variables
       And Hit the home page url of banking site
 
-
     @RegressionTest @NetBanking
     Scenario: User Page default login
 
