@@ -2,7 +2,10 @@
     Multiple login automation tests
 
     Background:
-    //put pre-requisite steps here
+      Given Setup the entries in database
+      When  Launch the browser from config variables
+      And Hit the home page url of banking site
+
 
     @RegressionTest
     Scenario: Admin Page default login

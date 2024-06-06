@@ -9,6 +9,22 @@ import java.util.List;
 
 public class MainSteps
 {
+    @Given("Setup the entries in database")
+    public void setup_the_entries_in_database() {
+        // Write code here that turns the phrase above into concrete actions
+        System.out.println("Setup step 1");
+    }
+    @When("Launch the browser from config variables")
+    public void launch_the_browser_from_config_variables() {
+        // Write code here that turns the phrase above into concrete actions
+        System.out.println("Setup step 2");
+    }
+    @When("Hit the home page url of banking site")
+    public void hit_the_home_page_url_of_banking_site() {
+        // Write code here that turns the phrase above into concrete actions
+        System.out.println("Setup step 3");
+    }
+
     @Given("User is on NetBanking landing page")
     public void user_is_on_net_banking_landing_page() {
         // Write code here that turns the phrase above into concrete actions
