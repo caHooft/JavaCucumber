@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14a900c7-7c38-49f8-a42e-c12fe16121f6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cucumberOptions/TestNGRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cucumberOptions/TestNGRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/firstProgram.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/firstProgram.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/MainSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/MainSteps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +126,7 @@
       <workItem from="1717068618801" duration="7077000" />
       <workItem from="1717141826574" duration="13682000" />
       <workItem from="1717596690724" duration="2082000" />
-      <workItem from="1717658365053" duration="3300000" />
+      <workItem from="1717658365053" duration="3584000" />
     </task>
     <task id="LOCAL-00001" summary="30/05 tutorial section 3">
       <option name="closed" value="true" />
@@ -171,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717168494628</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Cucumber tutorial Fixed mistake I made in section 5. Fresh start section 6">
+      <option name="closed" value="true" />
+      <created>1717665037274</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717665037274</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +189,7 @@
     <MESSAGE value="Cucumber tutorial start section 4" />
     <MESSAGE value="Cucumber tutorial end section 4" />
     <MESSAGE value="Cucumber tutorial start section 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cucumber tutorial start section 6" />
+    <MESSAGE value="Cucumber tutorial Fixed mistake I made in section 5. Fresh start section 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cucumber tutorial Fixed mistake I made in section 5. Fresh start section 6" />
   </component>
 </project>

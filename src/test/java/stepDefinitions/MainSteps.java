@@ -12,17 +12,18 @@ public class MainSteps
     @Given("Setup the entries in database")
     public void setup_the_entries_in_database() {
         // Write code here that turns the phrase above into concrete actions
-        System.out.println("Setup step 1");
+        System.out.println("*******************************************");
+        System.out.println("Setup step 1, setup the entries in database");
     }
     @When("Launch the browser from config variables")
     public void launch_the_browser_from_config_variables() {
         // Write code here that turns the phrase above into concrete actions
-        System.out.println("Setup step 2");
+        System.out.println("Setup step 2, Launch the browser from config variables");
     }
     @When("Hit the home page url of banking site")
     public void hit_the_home_page_url_of_banking_site() {
         // Write code here that turns the phrase above into concrete actions
-        System.out.println("Setup step 3");
+        System.out.println("Setup step 3, hit the home page url of banking site");
     }
 
     @Given("User is on NetBanking landing page")
